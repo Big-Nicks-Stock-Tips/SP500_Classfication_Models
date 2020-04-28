@@ -1,6 +1,6 @@
 # SP500_Classfication_Models
 
-The financial market is constantly evolving, the market participants are constantly learning from the past and adapting their behaviours. It is a complex system consists of many non-linear relationships and interactive effects.
+The financial market is constantly evolving, it is a complex system consists of many non-linear relationships and interactive effects.
 
 In this project I will go over multiple classification algorithms in an attempt to forecast the market. Specifically, SPDR S&P 500 Trust ETF (SPY) is picked as a convenient way to analyze the S&P 500. Many other related datasets will also be used, such as sector ETFs, foreign exchange rates, commodity futures, and economic data.
 
