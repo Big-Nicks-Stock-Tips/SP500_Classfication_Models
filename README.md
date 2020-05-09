@@ -7,3 +7,5 @@ In this project I will go over multiple classification algorithms in an attempt 
 A big focus on this project will also feature selection. I want to use this project to gain some hands-on experience on implementing different feature selection methods and learn how to apply them optimally.
 
 I will also cover areas such as data preprocessing, feature engineering, hyper-parameter optimization, and model selection. 
+
+Medium Article: https://medium.com/@erictang_78298/forecasting-s-p-500-stock-index-using-classification-models-eb41510a896d
